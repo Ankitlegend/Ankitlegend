@@ -1,5 +1,5 @@
 # 💫 About Me:
-Machine learning model specialist | frontened Developer
+Machine learning model specialist | frontened Developer | deep learning enthusiast
 
 
 # 💻 Tech Stack:
